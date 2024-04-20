@@ -1,0 +1,4 @@
+if local player then do = 50 if game.Players.LocalPlayers.Humanoid.Walkspeed = 50
+  wait(3)
+  game.Players.LocalPlayers.Walkspeed = 15
+  Vape.Blatant.Tab
